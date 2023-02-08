@@ -2,7 +2,10 @@
 
 ## Linear Regression to Predict MPG
 
+
+### Linear regression model for mpg
 <img width="461" alt="regression_model" src="https://user-images.githubusercontent.com/114922260/217665767-657518a3-71fe-4807-946d-9dc30831996e.png">
+### Summary statistics
 <img width="458" alt="summary" src="https://user-images.githubusercontent.com/114922260/217665891-1b8a9ab7-99a2-4c84-8d29-722743c0f946.png">
 
 The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset are "vehicle_length", "ground_clearance", and (Intercept), as their p-values are less than 0.05 and are therefore statistically significant.
