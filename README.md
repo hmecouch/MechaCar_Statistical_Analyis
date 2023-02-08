@@ -5,6 +5,7 @@
 
 ### Linear regression model for mpg
 <img width="461" alt="regression_model" src="https://user-images.githubusercontent.com/114922260/217665767-657518a3-71fe-4807-946d-9dc30831996e.png">
+
 ### Summary statistics
 <img width="458" alt="summary" src="https://user-images.githubusercontent.com/114922260/217665891-1b8a9ab7-99a2-4c84-8d29-722743c0f946.png">
 
