@@ -51,3 +51,7 @@ As we can see, both Lot1 and Lot2 have a variance that is less than 100 pounds p
 
 In conclusion, the current manufacturing data meets the design specification for two of the three manufacturing lots, but not for Lot3. To ensure that all MechaCar suspension coils meet the desired standards, further analysis and investigation may be necessary to determine the reasons for the non-compliance of Lot3. This analysis provides valuable insights into the performance of the MechaCar suspension coils and will be used to make informed decisions for future production.
 
+
+
+## T-Tests on Suspension Coils
+
