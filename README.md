@@ -41,9 +41,9 @@ Based on the information given, the variance of the suspension coils in the curr
 
 The variance for each of the manufacturing lots is as follows:
 
--Lot1: variance = 0.9795918 pounds per square inch
--Lot2: variance = 7.4693878 pounds per square inch
--Lot3: variance = 170.2861224 pounds per square inch
+- Lot1: variance = 0.9795918 pounds per square inch
+- Lot2: variance = 7.4693878 pounds per square inch
+- Lot3: variance = 170.2861224 pounds per square inch
 
 As we can see, both Lot1 and Lot2 have a variance that is less than 100 pounds per square inch, which meets the design specification. However, Lot3 has a variance that exceeds 100 pounds per square inch and does not meet the design specification.
 
