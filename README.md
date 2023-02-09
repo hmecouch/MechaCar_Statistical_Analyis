@@ -4,10 +4,10 @@
 
 
 ### Linear regression model for mpg
-<img width="461" alt="regression_model" src="https://user-images.githubusercontent.com/114922260/217665767-657518a3-71fe-4807-946d-9dc30831996e.png">
+<img width="600" alt="regression_model" src="https://user-images.githubusercontent.com/114922260/217665767-657518a3-71fe-4807-946d-9dc30831996e.png">
 
 ### Summary statistics
-<img width="458" alt="summary" src="https://user-images.githubusercontent.com/114922260/217665891-1b8a9ab7-99a2-4c84-8d29-722743c0f946.png">
+<img width="600" alt="summary" src="https://user-images.githubusercontent.com/114922260/217665891-1b8a9ab7-99a2-4c84-8d29-722743c0f946.png">
 
 
 The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset are "vehicle_length", "ground_clearance", and (Intercept), as their p-values are less than 0.05 and are therefore statistically significant.
@@ -29,14 +29,14 @@ The MechaCar suspension coils are a crucial component in ensuring a smooth and c
 
 ### Total Manufacturing Lot Summary
 
-<img width="400" alt="total_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217923896-35f7c432-2f35-4afb-93eb-3603f0c033a8.png">
+<img width="500" alt="total_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217923896-35f7c432-2f35-4afb-93eb-3603f0c033a8.png">
 
 Based on the information given, the variance of the suspension coils in the current manufacturing data is 62.29356 pounds per square inch, which is less than the design specification of 100 pounds per square inch. This means that the current manufacturing data meets the design specification for the variance of the suspension coils.
 
 
 ### Summary of Each Lot
 
-<img width="243" alt="lot_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217924059-82dc26f9-9e77-4492-a3f6-fdef2c7c5897.png">
+<img width="500" alt="lot_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217924059-82dc26f9-9e77-4492-a3f6-fdef2c7c5897.png">
 
 
 The variance for each of the manufacturing lots is as follows:
