@@ -29,7 +29,7 @@ The MechaCar suspension coils are a crucial component in ensuring a smooth and c
 
 ### Total Manufacturing Lot Summary
 
-<img width="186" alt="total_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217923896-35f7c432-2f35-4afb-93eb-3603f0c033a8.png">
+<img width="400" alt="total_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217923896-35f7c432-2f35-4afb-93eb-3603f0c033a8.png">
 
 Based on the information given, the variance of the suspension coils in the current manufacturing data is 62.29356 pounds per square inch, which is less than the design specification of 100 pounds per square inch. This means that the current manufacturing data meets the design specification for the variance of the suspension coils.
 
