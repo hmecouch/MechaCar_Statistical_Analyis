@@ -23,4 +23,31 @@ It's also important to note that this model has 5 predictor variables, and some 
 Overall, this linear model may predict the mpg of MechaCar prototypes effectively to some extent, but it is important to consider the limitations of the model and to consider other models or additional predictor variables that may improve the accuracy of the predictions.
 
 
+## Summary Statistics on Suspension Coils
+
+The MechaCar suspension coils are a crucial component in ensuring a smooth and comfortable ride for passengers. To ensure that the suspension coils meet the desired standards, design specifications have been set for the variance of the suspension coils to not exceed 100 pounds per square inch. In this analysis, we will evaluate the current manufacturing data to determine if it meets the design specification for all manufacturing lots in total and each lot individually. By analyzing the mean, median, variance, and standard deviation of each manufacturing lot, we aim to provide a comprehensive understanding of the performance of the MechaCar suspension coils.
+
+### Total Manufacturing Lot Summary
+
+<img width="186" alt="total_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217923896-35f7c432-2f35-4afb-93eb-3603f0c033a8.png">
+
+Based on the information given, the variance of the suspension coils in the current manufacturing data is 62.29356 pounds per square inch, which is less than the design specification of 100 pounds per square inch. This means that the current manufacturing data meets the design specification for the variance of the suspension coils.
+
+
+### Summary of Each Lot
+
+<img width="243" alt="lot_summary_suspension" src="https://user-images.githubusercontent.com/114922260/217924059-82dc26f9-9e77-4492-a3f6-fdef2c7c5897.png">
+
+
+The variance for each of the manufacturing lots is as follows:
+
+-Lot1: variance = 0.9795918 pounds per square inch
+-Lot2: variance = 7.4693878 pounds per square inch
+-Lot3: variance = 170.2861224 pounds per square inch
+
+As we can see, both Lot1 and Lot2 have a variance that is less than 100 pounds per square inch, which meets the design specification. However, Lot3 has a variance that exceeds 100 pounds per square inch and does not meet the design specification.
+
+#### Conclusion
+
+In conclusion, the current manufacturing data meets the design specification for two of the three manufacturing lots, but not for Lot3. To ensure that all MechaCar suspension coils meet the desired standards, further analysis and investigation may be necessary to determine the reasons for the non-compliance of Lot3. This analysis provides valuable insights into the performance of the MechaCar suspension coils and will be used to make informed decisions for future production.
 
