@@ -67,6 +67,12 @@ In conclusion, the current manufacturing data meets the design specification for
 ### T-Test on Lot 3
 <img width="395" alt="lot3_test" src="https://user-images.githubusercontent.com/114922260/217966922-b6a527e8-974f-494f-b62f-1b463786ce89.png">
 
+#### Summary
 
+For Lot 1, the t-test result showed a t-value of 8.7161 with a very low p-value of 1.568e-11. This suggests that the mean of PSI for Lot 1 is significantly different from the population mean of 1500 pounds per square inch with a 95% confidence interval of 1499.719 to 1500.281.
+
+For Lot 2, the t-test result showed a t-value of 3.6739 and a p-value of 0.0005911, which indicates that the mean of PSI for Lot 2 is significantly different from the population mean with a 95% confidence interval of 1499.423 to 1500.977.
+
+For Lot 3, the t-test result showed a t-value of -1.4305 and a p-value of 0.1589, suggesting that the mean of PSI for Lot 3 is not significantly different from the population mean of 1500 pounds per square inch with a 95% confidence interval of 1492.431 to 1499.849.
 
 
