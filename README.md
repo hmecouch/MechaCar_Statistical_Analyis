@@ -76,3 +76,14 @@ For Lot 2, the t-test result showed a t-value of 3.6739 and a p-value of 0.00059
 For Lot 3, the t-test result showed a t-value of -1.4305 and a p-value of 0.1589, suggesting that the mean of PSI for Lot 3 is not significantly different from the population mean of 1500 pounds per square inch with a 95% confidence interval of 1492.431 to 1499.849.
 
 
+## Study Design: MechaCar vs Competition
+
+A statistical study can be designed to quantify the performance of the MechaCar against the competition. The metrics of interest to consumers, such as cost, fuel efficiency, horse power, maintenance cost, and safety rating, can be analyzed.
+
+The metric or metrics being tested will depend on the objective of the study, for example, if the objective is to compare the fuel efficiency of the MechaCar with its competitors, then fuel efficiency will be the metric of interest.
+
+The null hypothesis in this case would be that the performance of the MechaCar does not differ from the performance of its competitors. The alternative hypothesis would be that the performance of the MechaCar is statistically different from the performance of its competitors.
+
+A two-sample t-test would be an appropriate statistical test to use in this scenario. This test is used to determine if the means of two independent samples are equal. The two samples would consist of the data for the MechaCar and the data for its competitors. The t-test is appropriate because the sample size is likely to be small and the data may not be normally distributed.
+
+The data required to run the t-test would be the performance data for the MechaCar and its competitors for the selected metric, such as fuel efficiency, cost, horse power, maintenance cost, or safety rating.
