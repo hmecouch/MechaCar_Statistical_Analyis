@@ -55,3 +55,17 @@ In conclusion, the current manufacturing data meets the design specification for
 
 ## T-Tests on Suspension Coils
 
+<img width="271" alt="all_lot_test" src="https://user-images.githubusercontent.com/114922260/217966836-32a10be5-107c-49b9-b454-c1e873037cbe.png">
+
+
+<img width="403" alt="lot1_test" src="https://user-images.githubusercontent.com/114922260/217966864-a0ca49c8-aaed-48f4-9cb3-c048b2a2f75c.png">
+
+
+<img width="392" alt="lot2_test" src="https://user-images.githubusercontent.com/114922260/217966903-f8da88cd-b99a-4512-be15-cf06a2436981.png">
+
+
+<img width="395" alt="lot3_test" src="https://user-images.githubusercontent.com/114922260/217966922-b6a527e8-974f-494f-b62f-1b463786ce89.png">
+
+
+
+
